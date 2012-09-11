@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SanguoCommanderContent", "SanguoCommander\SanguoCommanderContent\SanguoCommanderContent.contentproj", "{E0C21BC2-8448-4E17-A83C-993035C2A8A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommander1", "SanguoCommander\SanguoCommander1\SanguoCommander1.csproj", "{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cocos2d-xna", "cocos2d-xna", "{9814DC94-9F08-4B8F-B8A6-608D01EAE799}"
+	ProjectSection(SolutionItems) = preProject
+		Lib\cocos2d-xna.dll = Lib\cocos2d-xna.dll
+		Lib\cocos2d.Framework.dll = Lib\cocos2d.Framework.dll
+		Lib\CocosDenshion.dll = Lib\CocosDenshion.dll
+		Lib\ICSharpCode.SharpZipLib.dll = Lib\ICSharpCode.SharpZipLib.dll
+		Lib\zlib.net.dll = Lib\zlib.net.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0C21BC2-8448-4E17-A83C-993035C2A8A6}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{E0C21BC2-8448-4E17-A83C-993035C2A8A6}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
