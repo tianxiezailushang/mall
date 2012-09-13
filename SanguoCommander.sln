@@ -1,18 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SanguoCommanderContent", "SanguoCommander\SanguoCommanderContent\SanguoCommanderContent.contentproj", "{E0C21BC2-8448-4E17-A83C-993035C2A8A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommanderContent", "SanguoCommander\SanguoCommanderContent\SanguoCommanderContent.contentproj", "{E0C21BC2-8448-4E17-A83C-993035C2A8A6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommander1", "SanguoCommander\SanguoCommander1\SanguoCommander1.csproj", "{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cocos2d-xna", "cocos2d-xna", "{9814DC94-9F08-4B8F-B8A6-608D01EAE799}"
 	ProjectSection(SolutionItems) = preProject
 		Lib\cocos2d-xna.dll = Lib\cocos2d-xna.dll
+		Lib\cocos2d.Content.Pipeline.Importers.dll = Lib\cocos2d.Content.Pipeline.Importers.dll
 		Lib\cocos2d.Framework.dll = Lib\cocos2d.Framework.dll
 		Lib\CocosDenshion.dll = Lib\CocosDenshion.dll
 		Lib\ICSharpCode.SharpZipLib.dll = Lib\ICSharpCode.SharpZipLib.dll
 		Lib\zlib.net.dll = Lib\zlib.net.dll
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommande2", "SanguoCommander\SanguoCommander2\SanguoCommande2.csproj", "{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,6 +31,12 @@ Global
 		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
 		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Release|Windows Phone.Build.0 = Release|Windows Phone
 		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
