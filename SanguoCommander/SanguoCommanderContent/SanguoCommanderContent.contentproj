@@ -50,38 +50,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="bg_start.png">
-      <Name>bg_start</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="btn_setting1.png">
-      <Name>btn_setting1</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="btn_setting2.png">
-      <Name>btn_setting2</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="btn_start1.png">
-      <Name>btn_start1</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="btn_start2.png">
-      <Name>btn_start2</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="logo.png">
-      <Name>logo</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="Images\GameUI01.png">
       <Name>GameUI01</Name>
       <Importer>TextureImporter</Importer>
@@ -94,6 +62,20 @@
       <Name>GameUI01</Name>
       <Importer>TextImporter</Importer>
       <Processor>TextProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GameUI02.plist">
+      <Name>GameUI02</Name>
+      <Importer>TextImporter</Importer>
+      <Processor>TextProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Images\GameUI02.png">
+      <Name>GameUI02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />

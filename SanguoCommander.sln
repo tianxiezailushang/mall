@@ -15,7 +15,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cocos2d-xna", "cocos2d-xna"
 		Lib\zlib.net.dll = Lib\zlib.net.dll
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommande2", "SanguoCommander\SanguoCommander2\SanguoCommande2.csproj", "{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommander2", "SanguoCommander\SanguoCommander2\SanguoCommander2.csproj", "{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommander3", "SanguoCommander\SanguoCommander3\SanguoCommander3.csproj", "{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,12 @@ Global
 		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
 		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Release|Windows Phone.Build.0 = Release|Windows Phone
 		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
