@@ -15,7 +15,7 @@ namespace SanguoCommander.Scenes
             CCSprite background = CCSprite.spriteWithSpriteFrameName("bg_select.png");
             background.anchorPoint = new CCPoint(0, 0);
             this.addChild(background);
-
+            //返回按钮
             CCMenuItemSprite btn_back = CCMenuItemSprite.itemFromNormalSprite(
                 CCSprite.spriteWithSpriteFrameName("btn_back1.png"),
                 CCSprite.spriteWithSpriteFrameName("btn_back2.png"),
@@ -23,7 +23,7 @@ namespace SanguoCommander.Scenes
             CCMenu menu = CCMenu.menuWithItems(btn_back);
             menu.position = new CCPoint(666, 32);
             this.addChild(menu);
-
+            //上面的Tab按钮
             CCSprite tab1 = CCSprite.spriteWithSpriteFrameName("tab_shu1.png");
             CCSprite tab2 = CCSprite.spriteWithSpriteFrameName("tab_wu2.png");
             CCSprite tab3 = CCSprite.spriteWithSpriteFrameName("tab_wei2.png");

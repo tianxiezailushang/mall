@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommander2", "SanguoC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommander3", "SanguoCommander\SanguoCommander3\SanguoCommander3.csproj", "{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommander4", "SanguoCommander\SanguoCommander4\SanguoCommander4.csproj", "{223FAEAD-1DBD-445F-A976-E88423DF89C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Windows Phone = Debug|Windows Phone
@@ -45,6 +47,12 @@ Global
 		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
 		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Release|Windows Phone.Build.0 = Release|Windows Phone
 		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{223FAEAD-1DBD-445F-A976-E88423DF89C6}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{223FAEAD-1DBD-445F-A976-E88423DF89C6}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{223FAEAD-1DBD-445F-A976-E88423DF89C6}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{223FAEAD-1DBD-445F-A976-E88423DF89C6}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{223FAEAD-1DBD-445F-A976-E88423DF89C6}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{223FAEAD-1DBD-445F-A976-E88423DF89C6}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
