@@ -8,7 +8,6 @@ namespace SanguoCommander.Scenes
         public SceneGame()
         {
             base.init();
-            #region SanguoCommander5
             //±³¾°Í¼
             //CCSprite background = CCSprite.spriteWithSpriteFrameName("bg_game.png");
             //background.anchorPoint = new CCPoint(0, 0);
@@ -29,7 +28,6 @@ namespace SanguoCommander.Scenes
             CCMenu menu = CCMenu.menuWithItems(btn_attack);
             menu.position = new CCPoint(732, 36);
             this.addChild(menu);
-            #endregion
         }
         private void click_attack(CCObject sender)
         {

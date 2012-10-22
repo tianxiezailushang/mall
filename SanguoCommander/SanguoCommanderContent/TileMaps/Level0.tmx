@@ -5,6 +5,7 @@
   <tile id="56">
    <properties>
     <property name="groupid" value="1"/>
+    <property name="targetid" value="soldier"/>
    </properties>
   </tile>
   <tile id="57">
@@ -16,12 +17,14 @@
    <properties>
     <property name="groupid" value="1"/>
     <property name="targetid" value="2"/>
+    <property name="unittype" value="hero"/>
    </properties>
   </tile>
   <tile id="61">
    <properties>
     <property name="groupid" value="2"/>
     <property name="targetid" value="1"/>
+    <property name="unittype" value="hero"/>
    </properties>
   </tile>
  </tileset>
