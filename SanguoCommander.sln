@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommanderContent", "SanguoCommander\SanguoCommanderContent\SanguoCommanderContent.contentproj", "{E0C21BC2-8448-4E17-A83C-993035C2A8A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommander1", "SanguoCommander\SanguoCommander1\SanguoCommander1.csproj", "{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cocos2d-xna", "cocos2d-xna", "{9814DC94-9F08-4B8F-B8A6-608D01EAE799}"
+	ProjectSection(SolutionItems) = preProject
+		Lib\cocos2d-xna.dll = Lib\cocos2d-xna.dll
+		Lib\cocos2d.Content.Pipeline.Importers.dll = Lib\cocos2d.Content.Pipeline.Importers.dll
+		Lib\cocos2d.Framework.dll = Lib\cocos2d.Framework.dll
+		Lib\CocosDenshion.dll = Lib\CocosDenshion.dll
+		Lib\ICSharpCode.SharpZipLib.dll = Lib\ICSharpCode.SharpZipLib.dll
+		Lib\zlib.net.dll = Lib\zlib.net.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommander2", "SanguoCommander\SanguoCommander2\SanguoCommander2.csproj", "{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommander3", "SanguoCommander\SanguoCommander3\SanguoCommander3.csproj", "{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommander4", "SanguoCommander\SanguoCommander4\SanguoCommander4.csproj", "{223FAEAD-1DBD-445F-A976-E88423DF89C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommander5", "SanguoCommander\SanguoCommander5\SanguoCommander5.csproj", "{0A7A25CC-A545-404F-BBC4-04CF0A19248A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanguoCommander6", "SanguoCommander\SanguoCommander6\SanguoCommander6.csproj", "{6F47FCFC-D613-4534-89FF-168B880DA49C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0C21BC2-8448-4E17-A83C-993035C2A8A6}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{E0C21BC2-8448-4E17-A83C-993035C2A8A6}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{FE037C07-ECCB-4D82-A326-5DC56A8CBFCD}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{0046672C-4EE4-4EA5-B0A9-DCE4F48B111D}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{A715AD6B-F45E-46E1-89CB-5E133BF6ABB0}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{223FAEAD-1DBD-445F-A976-E88423DF89C6}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{223FAEAD-1DBD-445F-A976-E88423DF89C6}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{223FAEAD-1DBD-445F-A976-E88423DF89C6}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{223FAEAD-1DBD-445F-A976-E88423DF89C6}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{223FAEAD-1DBD-445F-A976-E88423DF89C6}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{223FAEAD-1DBD-445F-A976-E88423DF89C6}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{0A7A25CC-A545-404F-BBC4-04CF0A19248A}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{0A7A25CC-A545-404F-BBC4-04CF0A19248A}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{0A7A25CC-A545-404F-BBC4-04CF0A19248A}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{0A7A25CC-A545-404F-BBC4-04CF0A19248A}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{0A7A25CC-A545-404F-BBC4-04CF0A19248A}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{0A7A25CC-A545-404F-BBC4-04CF0A19248A}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{6F47FCFC-D613-4534-89FF-168B880DA49C}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{6F47FCFC-D613-4534-89FF-168B880DA49C}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{6F47FCFC-D613-4534-89FF-168B880DA49C}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{6F47FCFC-D613-4534-89FF-168B880DA49C}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{6F47FCFC-D613-4534-89FF-168B880DA49C}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{6F47FCFC-D613-4534-89FF-168B880DA49C}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
